@@ -16,16 +16,4 @@
 - Click `Use this template` to create a new repository.
 - Wait for the build to complete.
 
-## YouTube:
-
-[![YouTube](https://img.youtube.com/vi/Qx4GaWHLt40/0.jpg)](https://www.youtube.com/watch?v=Qx4GaWHLt40)
-
-## Contributors:
-
-<a href="https://github.com/hardingadonis/aseprite-auto-build/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=hardingadonis/aseprite-auto-build" />
-</a>
-
-## Licenses:
-
 - [Auto Build Aseprite](https://github.com/hardingadonis/aseprite-auto-build) is under the [MIT license](https://github.com/hardingadonis/aseprite-auto-build/blob/main/LICENSE).
